@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuillyCoder/Suillustrative-Portfolio/static/css/main.629b2b8b.css",
+    "main.js": "/SuillyCoder/Suillustrative-Portfolio/static/js/main.98d65c8d.js",
+    "static/js/453.dc01c425.chunk.js": "/SuillyCoder/Suillustrative-Portfolio/static/js/453.dc01c425.chunk.js",
+    "index.html": "/SuillyCoder/Suillustrative-Portfolio/index.html",
+    "main.629b2b8b.css.map": "/SuillyCoder/Suillustrative-Portfolio/static/css/main.629b2b8b.css.map",
+    "main.98d65c8d.js.map": "/SuillyCoder/Suillustrative-Portfolio/static/js/main.98d65c8d.js.map",
+    "453.dc01c425.chunk.js.map": "/SuillyCoder/Suillustrative-Portfolio/static/js/453.dc01c425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629b2b8b.css",
+    "static/js/main.98d65c8d.js"
+  ]
+}
